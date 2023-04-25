@@ -5,6 +5,9 @@
 *.otf
 *.ttf
 
+### Videos ###
+*.mp4
+
 ### Images ###
 # JPEG
 *.jpg
